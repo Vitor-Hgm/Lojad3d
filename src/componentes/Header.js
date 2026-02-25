@@ -5,7 +5,8 @@ function Header(){
         <header className="header">
             {/* AREA DA LOGO E DO NOME DA LOJA*/}
             <div className="logo "></div>
-            <h1>Loja 3d</h1>
+            <h1>Loja 3d do Vitor
+            </h1>
 
             {/* AREA DO MENU DE NAVEGAÇÂO*/}
             <nav className="menu_header">
